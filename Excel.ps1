@@ -9,5 +9,5 @@ $lineStyle = "microsoft.office.interop.excel.xlLineStyle" -as [type]
 $colorIndex = "microsoft.office.interop.excel.xlColorIndex" -as [type]
 $borderWeight = "microsoft.office.interop.excel.xlBorderWeight" -as [type]
 $chartType = "microsoft.office.interop.excel.xlChartType" -as [type]
-$a = 0
+$a = 01
  
