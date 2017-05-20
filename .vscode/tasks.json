@@ -2,7 +2,7 @@
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
     "version": "0.1.0",
-    "command": "powerShell",
+    "command": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powerShell.exe",
     "isShellCommand": true,
     "args": ["${file}"]
     "showOutput": "always"
