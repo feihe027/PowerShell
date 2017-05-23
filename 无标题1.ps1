@@ -1,5 +1,5 @@
 ﻿$array=7..10
 foreach ($n in $array)
 {
-    $n*$n
+    $n*$n*22
 }
